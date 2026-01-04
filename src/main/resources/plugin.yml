@@ -1,0 +1,5 @@
+name: GlowingPlugin
+version: 1.0
+main: de.glowing.GlowingPlugin
+api-version: 1.21
+description: Permanenter Glowing Effekt

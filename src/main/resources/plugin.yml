@@ -1,5 +1,5 @@
 name: GlowingPlugin
 version: 2.0
 main: de.glowing.GlowingPlugin
-api-version: '26.3'
+api-version: '26.1'
 description: Permanent glowing effect for all players

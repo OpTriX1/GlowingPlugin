@@ -1,4 +1,4 @@
-name: Build GlowingPlugin 2.0
+name: Build GlowingPlugin
 
 on: [push]
 
